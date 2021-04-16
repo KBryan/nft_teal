@@ -21,10 +21,10 @@ function yaGetBanner(image,catText)
 
     el.innerHTML=`
         <div class="product-card">
-            <h2 id="cat_header">Cat Facts!!!</h2>
+            <h2 id="cat_header">Random NFT Genrerator!!!</h2>
             <img id="cat_img" src="${image}"/>
             <p id="cattext">${catText}</p>
-              <button class="button">Mint Cat Fact</button>
+              <button class="button">Mint NFT</button>
         </div>
     `;
 }

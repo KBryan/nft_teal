@@ -110,6 +110,11 @@ p {
 img {
     border-radius:90px;
 }
+.product-card {
+
+    text-align: center;
+}
+
 .product-card img {
     width: 100%;
     height: 100%;
@@ -131,6 +136,7 @@ img {
     color: white;
     padding: 15px 32px;
     border-radius:10px;
+    button: center;
     text-align: center;
     text-decoration: none;
     display: inline-block;
